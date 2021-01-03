@@ -268,6 +268,9 @@ UsedLibraryUrn="urn:adsk.eagle:library:199"
 UsedLibrary="C:/Users/crist/OneDrive/Documentos/EAGLE/libraries/INA186A4IDCKT.lbr"
 UsedLibrary="C:/Users/crist/OneDrive/Documentos/EAGLE/libraries/TP4056.lbr"
 UsedLibrary="C:/Users/crist/OneDrive/Documentos/EAGLE/libraries/UJC-HP-3-SMT-TR.lbr"
+UsedLibrary="C:/Users/crist/OneDrive/Documentos/EAGLE/libraries/LM4950TSX_NOPB.lbr"
+UsedLibrary="C:/Users/crist/OneDrive/Documentos/EAGLE/libraries/B2B-XH-A_LF__SN_.lbr"
+UsedLibrary="C:/Users/crist/OneDrive/Documentos/EAGLE/libraries/B3P-VH_LF__SN_.lbr"
 
 [Win_1]
 Type="Control Panel"
